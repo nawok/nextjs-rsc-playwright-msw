@@ -26,6 +26,7 @@
     "eslint-config-next": "15.1.6",
     "@eslint/eslintrc": "^3",
     "msw": "^2.7.0",
-    "@estruyf/github-actions-reporter": "^1.10.0"
+    "@estruyf/github-actions-reporter": "^1.10.0",
+    "@faker-js/faker": "^9.4.0"
   }
 }
